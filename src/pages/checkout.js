@@ -18,7 +18,7 @@ function Checkout() {
 
 			<main className='lg:flex max-w-screen-2xl mx-auto'>
 
-				{/* Left */}
+				{/* Left w/Banner */}
 				<div className='flex-grow m-5 shadow-sm'>
 					<Image
 						src='https://links.papareact.com/ikj'
@@ -46,7 +46,7 @@ function Checkout() {
 					</div>
 				</div>
 
-				{/* Right */}
+				{/* Right - checkout subtoal */}
 				<div className='flex flex-col bg-white p-10 shadow-md'>
 					{items.length > 0 && (
 						<>

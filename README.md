@@ -18,4 +18,4 @@ Run commands
 
 3. `yarn run dev`
 
-![image](https://user-images.githubusercontent.com/84847782/162528926-935d14b5-b374-4a8d-b641-a33b258666d1.png)
+![Screen Shot 2022-12-08 at 18 58 04 PM](https://user-images.githubusercontent.com/72363705/206614762-8bceb9bb-6b88-4b32-b882-9106ae399963.png)

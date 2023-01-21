@@ -1,6 +1,4 @@
-Live Demo
-
-http://amazon-clone-fdrive422.vercel.app/
+### <a href="http://amazon-clone-fdrive422.vercel.app/">LIVE DEMO</a>
 
 ![Screen Shot 2022-12-08 at 18 58 04 PM](https://user-images.githubusercontent.com/72363705/206614762-8bceb9bb-6b88-4b32-b882-9106ae399963.png)
 
